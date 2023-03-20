@@ -1,0 +1,37 @@
+body {
+  background-image: url("../img/backgroundLp.png");
+  background-size: 1350px;
+}
+
+.formula {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 430px;
+}
+
+p {
+  color: white;
+}
+
+.align-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  margin-top: 70px;
+}
+.img img {
+  width: 180px;
+}
+
+label {
+  color: white;
+}
+
+.qualities {
+  display: flex;
+}
+
+/*# sourceMappingURL=style.css.map */
